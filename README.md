@@ -1,1 +1,1 @@
-# droughtidx_climatedrver_dashboard
+# Dashboarding of drought indices, e.g. SPI
